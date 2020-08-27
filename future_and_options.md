@@ -1,7 +1,8 @@
 ---
 title: Future and Options
 ---
-## **This is something that is applicable in India ONLY. **
+## https://www.angelbroking.com/knowledge-center/derivatives/difference-between-options-and-futures
+## This is something that is applicable in **INDIA** @@html: <u>ONLY</u>@@ .
 ### Hence, this is not very applicable, but it is useful none - the less.
 ## The difference between future and options is that while futures are linear, options are not linear. Derivatives mean that they do not have any value of their own but their value is derived from an underlying asset. 
 ## A Future is a right and an obligation to buy or sell an underlying stock (or other assets) at a predetermined price and deliverable at a predetermined time.

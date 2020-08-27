@@ -1,6 +1,9 @@
 ---
 title: PODCAST - TRS x Nithin Kamath
 ---
+### Hosted: BeerBiceps
+### Company: Zerodha
+### https://www.youtube.com/watch?v=FFnTWSYQnyY&t=556s
 ## #NIBBLE
 ## "They want to hit that sixer, they do not want to take the six one run. The stock market is the six one runs." #business
 ## [[Bootstrap]] - the two ways to earn money
