@@ -26,8 +26,9 @@ title: makeSHIFT Forum
 ### 5:30 - 6:15: Networking break to meet the firms that have come to us
 ### 6:20 - 7:30
 #### 10 minute pitch by firms looking for collaborators
+### 7:35 - 8:00: Judging time (by voting)
 ### 7:45 - 8:15: Announcing the CrashBoards International Programme
 ### 8:20 - 8:30: Clossing Remarks
 ### 8:30 - 8:45: What did we learn?
 ### 8:45 - 9:30: Networking
-### 9:30 - End of the 1st Edition of makeSHIFT.
+### 10:00 - End of the 1st Edition of makeSHIFT.
