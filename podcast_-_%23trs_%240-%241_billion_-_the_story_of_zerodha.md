@@ -1,7 +1,7 @@
 ---
 title: PODCAST - TRS x Nithin Kamath
 ---
-
+## #NIBBLE
 ## "They want to hit that sixer, they do not want to take the six one run. The stock market is the six one runs." #business
 ## [[Bootstrap]] - the two ways to earn money
 ### {{{embed [[Bootstrap]] }}}
@@ -10,3 +10,6 @@ title: PODCAST - TRS x Nithin Kamath
 hy selling stakes in India is more profitable than making profits]]
 ### {{{embed [[Why selling stakes in India is more profitable than making profits]]}}}
 ##
+## [
+## [[Future and Options]]
+### {{{embed [[Future and Options]] }}}
