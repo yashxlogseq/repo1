@@ -3,7 +3,7 @@ title: makeSHIFT Forum
 ---
 
 ## The platform where CrashBoards does announcements, enables interactions, promotes networking and inspires collaborations
-## Potential Topics
+## **Potential Topics**
 ### Tech and Business
 ### Economics and World History
 ### MedTech and the Science of thinking
@@ -12,8 +12,11 @@ title: makeSHIFT Forum
 #### Their pitch to us will be of 15 minutes
 ### The goal of the forum is for the 10 shortlisted candidates to look for potential collaborators admits the audience.
 ### The 'winner' in this forum will get direct access to our keynote speaker. This aid, provided by our keynote speaker, who is one good individual in the field, will help propel their business forward.
-## 1st Edition - June 2020: Technology and Business
-### 3 - 3:20: Introduction, speech by CEO of CrashBoards
+### **Judging Criteria** (1) Internal (2) On the body
+### **The judging team on the day of the forum**?
+## **1st Edition - June 2020: Technology and Business**
+### Time is all in PM
+### 3:00 - 3:20: Introduction, speech by CEO of CrashBoards
 ### 3:20 - 3:25: Preparation Time
 ### 3:25 - 4:10: 1st Keynote
 #### A student's journey of learning the ropes of the computer world. Feat: [[Arnav]]
@@ -27,8 +30,9 @@ title: makeSHIFT Forum
 ### 6:20 - 7:30
 #### 10 minute pitch by firms looking for collaborators
 ### 7:35 - 8:00: Judging time (by voting)
-### 7:45 - 8:15: Announcing the CrashBoards International Programme
-### 8:20 - 8:30: Clossing Remarks
-### 8:30 - 8:45: What did we learn?
-### 8:45 - 9:30: Networking
-### 10:00 - End of the 1st Edition of makeSHIFT.
+### 8:15 - 8:45: Announcing the CrashBoards International Programme
+### 8:45 - 9:00: Announcing winner
+### 9:00 - 9:15: Clossing Remarks
+### 9:15 - 9:30: What did we learn?
+### 9:30 - 10:30: Networking
+### 10:30 - End of the 1st Edition of makeSHIFT.
