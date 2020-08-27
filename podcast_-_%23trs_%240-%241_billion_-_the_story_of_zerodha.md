@@ -1,5 +1,5 @@
 ---
-title: Podcast - TRS x [[Nitin Kamath]]
+title: PODCAST - TRS x [[Nitin Kamath]]
 ---
 
 ## **Metadata**
