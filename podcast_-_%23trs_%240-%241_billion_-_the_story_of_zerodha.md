@@ -5,8 +5,6 @@ title: Podcast - TRS x [[Nitin Kamath]]
 ## **Metadata**
 ### Hosted: BeerBiceps
 ### Company: [[Zerodha]]
-be.com/watch?v=FFnTWSYQnyY&t=556s
----
 ## "They want to hit that sixer, they do not want to take the six one run. The stock market is the six one runs." #business
 ## [[Bootstrap]] - the two ways to earn money
 ### {{{embed [[Bootstrap]] }}}
