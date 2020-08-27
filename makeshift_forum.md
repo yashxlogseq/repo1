@@ -14,7 +14,7 @@ title: makeSHIFT Forum
 ### The 'winner' in this forum will get direct access to our keynote speaker. This aid, provided by our keynote speaker, who is one good individual in the field, will help propel their business forward.
 ### **Judging Criteria** (1) Internal (2) On the body
 ### **The judging team on the day of the forum**?
-## [[1st Edition - June 2020: Technology and Business]]
+## [[1st Edition - June 2021: Technology and Business]]
 ### 3:00 - 3:20: Introduction, speech by CEO of CrashBoards
 ### 3:20 - 3:25: Preparation Time
 ### 3:25 - 4:10: 1st Keynote
