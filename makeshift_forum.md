@@ -15,7 +15,6 @@ title: makeSHIFT Forum
 ### **Judging Criteria** (1) Internal (2) On the body
 ### **The judging team on the day of the forum**?
 ## [[Edition 1]]
-## [[1st Edition - June 2021: Technology and Business]]
 ### 3:00 - 3:20: Introduction, speech by CEO of CrashBoards
 ### 3:20 - 3:25: Preparation Time
 ### 3:25 - 4:10: 1st Keynote
