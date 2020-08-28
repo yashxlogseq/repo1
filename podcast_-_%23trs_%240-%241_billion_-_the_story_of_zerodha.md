@@ -1,7 +1,7 @@
 ---
 title: PODCAST - TRS x [[Nitin Kamath]]
 ---
-
+## #business #start-up #CEO #businessadvice
 ## **Metadata**
 ### Hosted: BeerBiceps
 ### Company: [[Zerodha]]
