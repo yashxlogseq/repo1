@@ -8,3 +8,8 @@ title: 🌲 Trees of Knowledge
 ## [[business]]
 ### [[Why selling stakes in India is more profitable than making profits]]
 ### [[Future and Options]]
+## [[Medicine]]
+### [[MedTech]]
+#### [[Financial management and MedTech]]
+#### [[Off-patent Drugs]]
+#### [[Digitalising patient care]]
