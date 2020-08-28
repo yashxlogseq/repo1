@@ -3,11 +3,10 @@ title: ARTICLE - Asia-Pacific Hospital Priorities 2019
 ---
 
 ## https://apacmed.org/content/uploads/2020/03/LEK-2019-APAC-Hospital-Priorities-Survey-Report.pdf
-## The lack of Financial Management
-### This is an idea that has come up a lot of times.
-### The lack of financial management makes it imperative to streamline the procurement process.
+## [[Financial management and MedTech]]
 #### "Rising emphasis on cost management and streamlining of hospital operations across APAC"
 #### "procurement standardization of more commoditized medical supplies such as surgical equipment, medical consumables and pharmaceutical drugs."
+### "Overall, the trend toward cost management and streamlined hospital operations is likely to be more pronounced in the future as hospitals continue to pursue multiple cost-management strategies, such as experimentation with volume-based centralized procurement, greater participation in GPOs and greater outsourcing of select services."
 ## "4+7" Cities
 ### Representing 30% of the drug market in China
 ### A step for "Healthy China 2030"
