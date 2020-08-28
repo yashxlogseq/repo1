@@ -2,7 +2,7 @@
 title: Edition 1
 ---
 
-## Date: 29th November - Dev Diwali and Ganga Mahautsav
+## Date: [[Nov 29th, 2020]] - Dev Diwali and Ganga Mahautsav
 ## 3:00 - 3:20: Introduction, speech by CEO of CrashBoards
 ## 3:25 - 4:10: 1st Keynote
 ### A student's journey of learning the ropes of the computer world. Feat: [[Arnav]]
