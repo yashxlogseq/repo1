@@ -16,7 +16,7 @@ title: Edition 1
 ## 6:20 - 7:30
 ### 10 minute pitch by firms looking for collaborators
 ## 7:35 - 8:00: Judging time (by voting)
-## 8:15 - 8:45: Announcing the CrashBoards International Programme
+## 8:15 - 8:45: **Announcing the CrashBoards International Programme**
 ## 8:45 - 9:00: Announcing winner
 ## 9:00 - 9:15: Clossing Remarks
 ## 9:15 - 9:30: What did we learn?
