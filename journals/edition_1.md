@@ -5,13 +5,13 @@ title: Edition 1
 ## Date: [[Nov 29th, 2020]] - Dev Diwali and Ganga Mahautsav
 ## 3:00 - 3:20: Introduction, speech by CEO of CrashBoards
 ## 3:25 - 4:10: 1st Keynote
-### A student's journey of learning the ropes of the computer world. Feat: [[Arnav]]
+### **The code: A students Exploration**. Feat: [[Arnav]]
 ## 4:10 - 4:40: Networking Break
 ## 4:45 - 5:30
 ### Breakout Room 1 - A pannel discussion
+#### **The perfect marriage - Tech & Language**. Feat: [[Advik]] [[Vandana]]/[[Riddhi]]
 ### Breakout Room 2 - A speech
-#### The perfect marriage - Tech & Language. Feat: [[Advik]] [[Vandana]]/[[Riddhi]]
-#### What is business? A students exploration of the cooperate world. Feat [[Adithya]]
+#### **What is a business? A students exploration of the cooperate world**. Feat [[Adithya]] or [[Ayush]] or either [[Yash Agrawal]].
 ## 5:30 - 6:15: Networking break to meet the firms that have come to us
 ## 6:20 - 7:30
 ### 10 minute pitch by firms looking for collaborators
