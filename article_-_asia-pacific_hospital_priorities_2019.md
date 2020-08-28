@@ -24,5 +24,3 @@ title: ARTICLE - Asia-Pacific Hospital Priorities 2019
 ### The eventual goal is to come out of the traditional hospital setting
 ## #+BEGIN_QUERY
 {{query: {and: {not: {or: [[DIGESTED]] [[digested]] [[Dig
-## This is html
-@@html: <iframe src="https://twitter.com/AliAbdaal/status/1295288693297684480" width="680" height="500" frameborder="0"></iframe>@@
