@@ -7,5 +7,3 @@ title: Bootstrap
 ## The second one, the bootstrap version is the tough one to achieve.
 ## There is also something known as the **bootstrap effect**.
 ### Bootstrap Effect or Bootstrap Earnings Effect (BEE) refers to the short-term boost in the earnings of the acquirer company when it merges with the target company even though there is no economic benefit from such combination.
-### TEST
-@@html: <embed src="https://twitter.com/AliAbdaal/status/1299105780625543169" width="300" height="200">@@
