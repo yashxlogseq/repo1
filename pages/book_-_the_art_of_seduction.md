@@ -9,11 +9,8 @@ title: BOOK - The Art of Seduction
 ## **Preface**
 ### "Today no political campaign can w
 ### Seduction is a process that is constant. You need to use pleasure as a bait, playing on peoples emotions, stirring desire and confusion inducing **physiological surrender**.
-### [[Seducers and Love]]
+### [[Love and seduction]]
 #EVERGREEN #love
-###### The seducers are those who "understand the tremendous power contained in the moments of surrender (in love)".
-###### This is something related to [[BOOK - 1984]]. Everyone who is looking for lust is doing it maybe anger? Maybe greed? Maybe envy?
-####### "He hated her because she was young and pretty and sexless because he wanted to go to bed with her and would never do so, because round her sweet supple waist, which seemed to ask you to encircle it with your arm, there was only the odious scarlet sash, aggressive symbol of chastity".
 ###### "A person in lust is harder to control and, once satisfied, may easily leave you. Seducers take their time, create enchantment and the bonds of love" and "Creating love and enchantment becomes the model for all seductions— sexual, social, political. A person in love will surrender."
 look at your self from their point of view. You can then work on yourself to improve the image you have on her that you see from her eyes. This does not make much sense, but it sure does.
 ### "First, self-
@@ -60,8 +57,10 @@ or moments of self-doubt by being absorbed in the world."
 ##### **The smile**
 ###### A notion that Bollywood and other sources of love advice have given us, is that it is all about the smile. This is not true. As Arjun Reddy says, it should be about the way how you breathe, not your physical features.
 ####### "Although a smile and an inviting look are infinitely seductive, they must never dominate your appearance. They are too obvious and direct."
-###### "Related to this is the notion of **selective disclosure**, the revealing of only a part of the body—but a part that will excite and stir the imagination."
-####### Example: "Queen Catherine de Médicis of France, was one of the first women ever to incorporate decolletage in her wardrobe, simply because she had the most beautiful breasts in the realm."
+###### "Related to this is the notion of **selective disclosure**, the revealing of only a part of the body—but a par
+#### [[The physical features of a seducer]]
+#EVERGREEN #LifeAdvice #love
+ecolletage in her wardrobe, simply because she had the most beautiful breasts in the realm."
 ##### **The Voice**
 ###### The other thing is that this is about the voice.
 ####### "Perhaps that power is regressive, recalling the ability of the mother's voice to calm or excite her child even before the child understood what she was saying."
